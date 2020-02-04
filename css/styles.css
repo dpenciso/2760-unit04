@@ -1,0 +1,42 @@
+
+header {
+    max-width: 960px;
+    margin: 0 auto;
+    background-image: url("/images/crystalBall.jpg");
+    background-repeat: no-repeat;
+    background-size: 960px 300px;
+    height: 300px;
+}
+
+h1#company {
+    color: rgb(162, 94, 240);
+    text-shadow: rgb(255, 255, 255) 1.5px 1.5px;
+    margin-left: 2%;
+    padding-top: 20%;
+}
+
+h2#slogan {
+    color: rgb(56, 110, 180);
+    text-shadow: white 1.5px 1.5px;
+    margin-left: 2%;
+}
+
+body {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: rgb(162, 94, 240);
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(162, 94, 240);
+    color: white;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px;
+}
